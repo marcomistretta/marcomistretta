@@ -6,6 +6,17 @@
 
 I’m passionate about Artificial Intelligence and its impact on how we interact with the world around us. My background in **Computer Engineering** and **AI** led me to pursue a PhD at MICC in Florence, Italy, under the esteemed supervision of Prof. Andrew D. Bagdanov. Now I’m diving deep into the world of **Multimodal Vision-Language Models** and their applications in solving real-world challenges.
 
+## 🥇 First Author Publications:
+
+- [**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**](https://arxiv.org/abs/2407.03056)  
+  *ECCV 2024 (main paper)*  
+  **Authors**: Marco Mistretta*, Alberto Baldrati*, Marco Bertini, Andrew D. Bagdanov  
+  **Code**: [GitHub Repository](https://github.com/miccunifi/KDPL)
+
+- [**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**](https://arxiv.org/abs/2410.17827)  
+  *NeurIPS 2023, Medical Imaging meets NeurIPS Workshop*  
+  **Authors**: Marco Mistretta, Andrew D. Bagdanov
+
 ## 🌟 What Drives Me:
 I'm really into:
 - 🧠 **Multimodal Learning**: Combining visual and language data to get a richer understanding of the world.
