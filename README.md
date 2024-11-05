@@ -2,7 +2,7 @@
   <img src="gif.webp" alt="Banner" width="1024"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Marco Mistretta!</h1>
+<h1 align="center">Hi 👋 I'm Marco Mistretta!</h1>
 
 I’m passionate about Artificial Intelligence and its impact on how we interact with the world around us. My background in **Computer Engineering** and **AI** led me to pursue a PhD at MICC in Florence, Italy, under the esteemed supervision of Prof. Andrew D. Bagdanov. Now I’m diving deep into the world of **Multimodal Vision-Language Models** and their applications in solving real-world challenges.
 
