@@ -27,9 +27,6 @@ I'm really into:
 - 📝 **Prompt Learning**: Tuning only a few learnable parameters, so-called "prompts", to maximize VLMs performance.
 - 🚀 **Test-Time Adaptation**: Letting models adjust during inference to handle unseen data on the fly.
 
-## 📝 Recent Publications:
-- [**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**](https://arxiv.org/abs/2407.03056) – Published at **ECCV 2024**, co-authored with **Alberto Baldrati, Marco Bertini, and Andrew D. Bagdanov**.
-
 ## 🚀 Skills & Technologies:
 - **Programming Languages**: Python, Java, C++, MATLAB, R
 - **Frameworks & Tools**: PyTorch, TensorFlow, Hugging Face, OpenCV
