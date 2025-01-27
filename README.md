@@ -21,12 +21,12 @@ For more information, feel free to visit my website: [marcomistretta.github.io](
   *ICLR 2025 (main paper)*  
   **Authors**: Marco Mistretta*, Alberto Baldrati*, Lorenzo Agnolucci*, Marco Bertini, Andrew D. Bagdanov
   
-- [**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**](https://arxiv.org/abs/2407.03056)\  
+- [**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**](https://arxiv.org/abs/2407.03056)  
   *ECCV 2024 (main paper)*  
   **Authors**: Marco Mistretta*, Alberto Baldrati*, Marco Bertini, Andrew D. Bagdanov  
   **Code**: [GitHub Repository](https://github.com/miccunifi/KDPL)
 
-- [**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**](https://arxiv.org/abs/2410.17827)\  
+- [**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**](https://arxiv.org/abs/2410.17827)  
   *NeurIPS 2023, Medical Imaging meets NeurIPS Workshop*  
   **Authors**: Marco Mistretta, Andrew D. Bagdanov
 
