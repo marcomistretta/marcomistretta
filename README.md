@@ -1,19 +1,32 @@
+<!--
 <p align="center">
   <img src="gif.webp" alt="Banner" width="1024"/>
 </p>
+-->
 
 <h1 align="center">Hi 👋 I'm Marco Mistretta!</h1>
 
-I’m passionate about Artificial Intelligence and its impact on how we interact with the world around us. My background in **Computer Engineering** and **AI** led me to pursue a PhD at MICC in Florence, Italy, under the esteemed supervision of Prof. Andrew D. Bagdanov. Now I’m diving deep into the world of **Multimodal Vision-Language Models** and their applications in solving real-world challenges.
+I’m a PhD student in Artificial Intelligence at [MICC](https://www.micc.unifi.it/), University of Florence, working under the guidance of [Prof. Andrew D. Bagdanov](https://scholar.google.com/citations?hl=en&user=_Fk4YUcAAAAJ) and [Prof. Marco Bertini](https://scholar.google.it/citations?user=SBm9ZpYAAAAJ&hl=en).
+With a background in Computer Engineering and AI, my research focuses on pushing the boundaries of **Multimodal Vision-Language Models** (like CLIP) and their real-world applications.
+
+This expertise is demonstrated through **my first-author publications** in top-tier venues, including [ECCV (main conference)](https://arxiv.org/abs/2407.03056), [NeurIPS (workshop)](https://arxiv.org/abs/2410.17827), [ICLR (main conference)](https://openreview.net/forum?id=VVVfuIcmKR).
+These works reflect my dedication to solving challenging problems and advancing the field of AI.
+
+Currently **seeking a 2025 internship** to contribute to innovative teams and apply my expertise to real-world challenges!
+For more information, feel free to visit my website: [marcomistretta.github.io](https://marcomistretta.github.io)
 
 ## 🥇 First Author Publications:
 
-- [**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**](https://arxiv.org/abs/2407.03056)  
+- [**Cross the Gap: Inter-modal CLIP Representations Are Superior for Intra-modal Tasks**](https://openreview.net/forum?id=VVVfuIcmKR)\
+  *ICLR 2025 (main paper)*  
+  **Authors**: Marco Mistretta*, Alberto Baldrati*, Lorenzo Agnolucci*, Marco Bertini, Andrew D. Bagdanov
+  
+- [**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**](https://arxiv.org/abs/2407.03056)\  
   *ECCV 2024 (main paper)*  
   **Authors**: Marco Mistretta*, Alberto Baldrati*, Marco Bertini, Andrew D. Bagdanov  
   **Code**: [GitHub Repository](https://github.com/miccunifi/KDPL)
 
-- [**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**](https://arxiv.org/abs/2410.17827)  
+- [**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**](https://arxiv.org/abs/2410.17827)\  
   *NeurIPS 2023, Medical Imaging meets NeurIPS Workshop*  
   **Authors**: Marco Mistretta, Andrew D. Bagdanov
 
