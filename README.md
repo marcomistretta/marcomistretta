@@ -12,22 +12,25 @@ With a background in Computer Engineering and AI, my research focuses on pushing
 This expertise is demonstrated through **my first-author publications** in top-tier venues, including [ECCV (main conference)](https://arxiv.org/abs/2407.03056), [NeurIPS (workshop)](https://arxiv.org/abs/2410.17827), [ICLR (main conference)](https://openreview.net/forum?id=VVVfuIcmKR).
 These works reflect my dedication to solving challenging problems and advancing the field of AI.
 
-Currently **seeking a 2025 internship** to contribute to innovative teams and apply my expertise to real-world challenges!
+Currently, I am an **Applied Scientist Intern at Amazon (RufusX Team, London)**, where I work on **foundational research and development in Generative AI and Multimodal Large Language Models (MLLMs)** as part of the [Amazon Rufus initiative](https://www.aboutamazon.com/news/retail/amazon-rufus).
+
 For more information, feel free to visit my website: [marcomistretta.github.io](https://marcomistretta.github.io)
 
 ## 🥇 First Author Publications:
 
-- [**Cross the Gap: Inter-modal CLIP Representations Are Superior for Intra-modal Tasks**](https://openreview.net/forum?id=VVVfuIcmKR)\
-  *ICLR 2025 (main paper)*  
-  **Authors**: Marco Mistretta*, Alberto Baldrati*, Lorenzo Agnolucci*, Marco Bertini, Andrew D. Bagdanov
-  
-- [**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**](https://arxiv.org/abs/2407.03056)  
-  *ECCV 2024 (main paper)*  
-  **Authors**: Marco Mistretta*, Alberto Baldrati*, Marco Bertini, Andrew D. Bagdanov  
-  **Code**: [GitHub Repository](https://github.com/miccunifi/KDPL)
+- [**Cross the Gap: Inter-modal CLIP Representations Are Superior for Intra-modal Tasks**](https://openreview.net/forum?id=VVVfuIcmKR)   
+  *ICLR 2025 (main paper)*     
+  **Authors**: Marco Mistretta*, Alberto Baldrati*, Lorenzo Agnolucci*, Marco Bertini, Andrew D. Bagdanov   
+  **Code**: [GitHub Repository](https://github.com/miccunifi/Cross-the-Gap)   
 
-- [**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**](https://arxiv.org/abs/2410.17827)  
-  *NeurIPS 2023, Medical Imaging meets NeurIPS Workshop*  
+  
+- [**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**](https://arxiv.org/abs/2407.03056)     
+  *ECCV 2024 (main paper)*      
+  **Authors**: Marco Mistretta*, Alberto Baldrati*, Marco Bertini, Andrew D. Bagdanov     
+  **Code**: [GitHub Repository](https://github.com/miccunifi/KDPL)   
+
+- [**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**](https://arxiv.org/abs/2410.17827)     
+  *NeurIPS 2023, Medical Imaging meets NeurIPS Workshop*     
   **Authors**: Marco Mistretta, Andrew D. Bagdanov
 
 ## 🌟 What Drives Me:
