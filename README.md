@@ -33,6 +33,19 @@ For more information, feel free to visit my website: [marcomistretta.github.io](
   *NeurIPS 2023, Medical Imaging meets NeurIPS Workshop*     
   **Authors**: Marco Mistretta, Andrew D. Bagdanov
 
+---
+
+## 💼 Work Experience:
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png" alt="Amazon Logo" width="100" style="background-color:white; padding:4px; border-radius:6px;"/> **Applied Scientist Intern – Amazon (RufusX Team, London)**
+*July 2025 – December 2025*  
+- Worked on **Generative AI and Multimodal Large Language Models (MLLMs)** within the [Amazon Rufus initiative](https://www.aboutamazon.com/news/retail/amazon-rufus).  
+- **Fine-tuned, evaluated, and deployed large-scale multimodal models** impacting millions of customers.  
+- Collaborated with scientists and engineers to **advance real-world multimodal reasoning and generation**.  
+
+---
+
+
 ## 🌟 What Drives Me:
 I'm really into:
 - 🧠 **Multimodal Learning**: Combining visual and language data to get a richer understanding of the world.
