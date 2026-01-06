@@ -12,7 +12,7 @@ With a background in Computer Engineering and AI, my research focuses on pushing
 This expertise is demonstrated through **my first-author publications** in top-tier venues, including [ECCV (main conference)](https://arxiv.org/abs/2407.03056), [NeurIPS (workshop)](https://arxiv.org/abs/2410.17827), [ICLR (main conference)](https://openreview.net/forum?id=VVVfuIcmKR).
 These works reflect my dedication to solving challenging problems and advancing the field of AI.
 
-Currently, I am an **Applied Scientist Intern at Amazon (RufusX Team, London)**, where I work on **foundational research and development in Generative AI and Multimodal Large Language Models (MLLMs)** as part of the [Amazon Rufus initiative](https://www.aboutamazon.com/news/retail/amazon-rufus).
+I recently completed an **Applied Scientist Internship at Amazon (RufusX Team, London)**, where I worked on **foundational research and development in Generative AI and Multimodal Large Language Models (MLLMs)** as part of the [Amazon Rufus initiative](https://www.aboutamazon.com/news/retail/amazon-rufus).
 
 For more information, feel free to visit my website: [marcomistretta.github.io](https://marcomistretta.github.io)
 
