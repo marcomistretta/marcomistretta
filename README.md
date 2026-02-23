@@ -3,7 +3,7 @@
 I'm a PhD student in Artificial Intelligence at [MICC](https://www.micc.unifi.it/), University of Florence, working under the guidance of [Prof. Andrew D. Bagdanov](https://scholar.google.com/citations?hl=en&user=_Fk4YUcAAAAJ) and [Prof. Marco Bertini](https://scholar.google.it/citations?user=SBm9ZpYAAAAJ&hl=en).
 With a background in Computer Engineering and AI, my research focuses on pushing the boundaries of **Multimodal Vision-Language Models** (like CLIP) and their real-world applications.
 
-My work has been published in top-tier venues including [CVPR 2026](https://cvpr.thecvf.com/), [ICLR 2026](https://iclr.cc/), [ICLR 2025](https://openreview.net/forum?id=VVVfuIcmKR), [ECCV 2024](https://arxiv.org/abs/2407.03056), and [NeurIPS 2023 (workshop)](https://arxiv.org/abs/2410.17827).
+My work has been published in top-tier venues including [CVPR 2026](https://cvpr.thecvf.com/), [ICLR 2026](https://openreview.net/forum?id=PyfV9tFmdR), [ICLR 2025](https://openreview.net/forum?id=VVVfuIcmKR), [ECCV 2024](https://arxiv.org/abs/2407.03056), and [NeurIPS 2023 (workshop)](https://arxiv.org/abs/2410.17827).
 
 I recently completed an **Applied Scientist Internship at Amazon (RufusX Team, London)**, where I worked on **foundational research and development in Generative AI and Multimodal Large Language Models (MLLMs)** as part of the [Amazon Rufus initiative](https://www.aboutamazon.com/news/retail/amazon-rufus).
 
