@@ -13,9 +13,10 @@ For more information, feel free to visit my website: [marcomistretta.github.io](
 
 ## 📄 Publications:
 
-- [**IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment**](#)
+- [**IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment**](https://arxiv.org/abs/2603.19862)
   *CVPR 2026 (main conference)*
   **Authors**: Magistri S., Goswami D., **Mistretta M.**, Twardowski B., van de Weijer J., Bagdanov A. D.
+  **Code**: [GitHub Repository](https://github.com/simomagi/IsoCLIP)
 
 - [**SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery**](https://openreview.net/forum?id=PyfV9tFmdR)
   *ICLR 2026 (main conference)*
